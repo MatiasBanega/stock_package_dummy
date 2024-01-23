@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_stock_quant_package_dummy,access_stock_quant_package_dummy,model_stock_quant_package_dummy,base.group_user,1,1,1,1
+access_stock_package_dummy_read,access_stock_package_dummy_read,model_stock_package_dummy_read,base.group_user,1,1,1,1
+access_stock_package_dummy_read_log,access_stock_package_dummy_read_log,model_stock_package_dummy_read_log,base.group_user,1,1,1,1
